@@ -32,7 +32,8 @@ b=input()
 swap(a,b)
 ```
 # OUTPUT
-![output](/Swapping%20two%20variables.png)
+![output](https://github.com/ksanthosh2805/Swapping-two-values/assets/85092922/3eaaf5bf-1c8f-454c-8051-8ad839041a6d)
+
 # RESULT:
 Thus the swapping of two values are successfully executed
 
